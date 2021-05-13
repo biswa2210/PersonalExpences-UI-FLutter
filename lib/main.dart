@@ -4,11 +4,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:personal_expenses/home.dart';
 void main(){
-  /*WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setPreferredOrientations([
-    DeviceOrientation.portraitUp,
-    DeviceOrientation.portraitUp
-   ]);*/
+  /*
+    NAME: BISWARUP BHATTACHARJEE
+    EMAIL: bbiswa471@gmail.com
+  */
   runApp(
     MaterialApp(
       home: SplashScreen(),
