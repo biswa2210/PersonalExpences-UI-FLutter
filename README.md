@@ -86,6 +86,10 @@ samples, guidance on mobile development, and a full API reference.
 
 <div align="center">
 
+<a href="pics/m9.jpeg"><img src="pics/m9.jpeg" width="250" height= "450"></a> <a href="pics/m10.jpeg"><img src="pics/m10.jpeg" width="250" height= "450"></a> <a href="pics/m19.jpeg"><img src="pics/m19.jpeg" width="250" height= "450"></a>
+
+<a href="pics/m18.jpeg"><img src="pics/m18.jpeg" width="400" height= "250"></a> <a href="pics/m11.jpeg"><img src="pics/m11.jpeg" width="400" height= "250"></a> 
+
 </div>
 
 
