@@ -35,7 +35,7 @@
 | Deaths          | 2,944,771      |
 | Recovered       | 77,714,143     |
 
-## APP DOWNLOAD LINK : :point_right: <a href="" download>Click here to download</a> 
+## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/15setveN3QAeq-ZW7EewySGuvuUaKe74F/view">Click here to download</a> 
 
 ## Purpose :point_down:
 
