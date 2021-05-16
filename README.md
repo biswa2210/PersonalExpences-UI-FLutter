@@ -1,4 +1,5 @@
 # PERSONAL EXPENCES-UI-FLUTTER-APPLICATION :star_struck: 
+:family: :bow: :ok_woman: :dancer: :ok_hand: :relaxed:
 
 [![Generic badge](https://img.shields.io/badge/advance-Flutter-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-Dart-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Dart-Math-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/android-ios-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Material-UI-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/custom-widgets-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sdk-%22%3E%3D2.7.0%20%3C3.0.0%22-purple)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/cupertino__icons-%5E0.1.3-maroon)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/splashscreen-%5E1.2.0-blueviolet)](https://shields.io/)
 
@@ -14,47 +15,43 @@
 ## About :point_down: 
 
 <div align="justified">
-       
-
+This is a Flutter Application for keeping personal expenses' record. The application is for both android and ios. The name of this app is Galaxy UI. This app is for watching records in charts not for keeping database. Here we can add expenses by adding title, amount, date. Here we can choose date from e virtual calendar. We can compare multiple records in a week in a form of a chart. We can use it for analysing and calculating one week's expenses. Watching the records in form of chart helps us understanding how much expences we had throughout the week. We can also delete records as per our need. We can balance our weekly cost with it. Many type of expenses we have like tuition, courses, ebill, movie tickets, rent, tiffin etc. We can add them in this app and calculate all amounts. It is a very useful and easy to use app for personal expences. This app' UI is very user friendly. Anyone can use it by just installing the application in mobile phone. This app is totally responsive users can use it in portrait or landscape mode as they want.
 </div>
 
 <details>
-       <summary>"To read the types of cases click here"</summary>
- - Cases<br>
- - Suspected Cases<br>
+       <summary>"Details of Records"</summary>
+ - Title<br>
+ - Amount<br>
+ - Date
+</details>
 
- </details>
+## Info Table Example :thought_balloon: :point_down: 
 
-## Info Table Example :mask: :point_down: 
-
-| Types of Cases  |      Data      |
-| -------------   | -------------  |
-| Cases           | 136,500,769    |
-| Suspected Cases | 0              |
-| Confirmed Cases | 136,500,769    |
-| Deaths          | 2,944,771      |
-| Recovered       | 77,714,143     |
+|Title of Expenses|    Amount      |    Date        |
+| -------------   | -------------  |  ------------  |
+|    Tuition      |      2000      |  10/05/2021    |
+|    Courses      |      3000      |  12/05/2021    |
+|  Movie Tickets  |       600      |  14/05/2021    |
+|    Tiffin       |      1000      |  15/05/2021    |
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/15setveN3QAeq-ZW7EewySGuvuUaKe74F/view">Click here to download</a> 
 
 ## Purpose :point_down:
 
 <div align="justified">
-       
-
+I have made this application so that people can install it in phone and use it for weekly expenses calculation. This app is user friendly so that anyone can use it. They can easily keep track of their expenses and balance their expenses as they want. The chart will help them to easily analyse the costs.       
 </div>
 
 ## Use :point_down:
 
 <div align="justified">
-
-       </div>
+Users just have to install the application named 'Galaxy UI' in their android or iphone. Then they can open the app and add records as they want. They have to give title, amount and date for each espense. If they want to delete a record then they have to click on 'Delete' button.
+</div>
        
 ## Importance :point_down:
 
 <div align="justified">
-       
-
+In present poor, middle class, rich every type of people have to balance their monthly or weekly expenses. Systematic life gives us prosperity. So that this app is very important for everyone. Everyone has to keep track of their espenses so that this app helps them a lot in this.
 </div>
 
 ## Folder Structure :point_down:
