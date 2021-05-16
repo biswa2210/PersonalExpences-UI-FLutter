@@ -2,6 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:personal_expenses/models/transaction.dart';
 import 'package:intl/intl.dart';
 import 'package:personal_expenses/widgets/chart_bars.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class Chart extends StatelessWidget {
   final List<Transaction> recentTransactions;
   Chart(this.recentTransactions);
