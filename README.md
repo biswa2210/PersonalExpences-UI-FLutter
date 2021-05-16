@@ -84,7 +84,7 @@ PersonalExpences-UI-Flutter
 
 <div align="justified">
        
-I have fetched the data from ncov_2019_api.http through [API](https://en.wikipedia.org/wiki/API) keys for app. I have used [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/).
+I have made this app using [FLUTTER](https://flutter.dev/?gclid=Cj0KCQjw38-DBhDpARIsADJ3kjliHdMH2hA97bBGqJtW5ORUUksCxpZ8cnrSWaH__HevGftAmP8AmvIaAhNlEALw_wcB&gclsrc=aw.ds) and [Dart](https://dart.dev/).
 </div>
 
 ## Getting Started
