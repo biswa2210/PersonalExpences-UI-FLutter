@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 class Transaction{
   final String id;
   final String title;
