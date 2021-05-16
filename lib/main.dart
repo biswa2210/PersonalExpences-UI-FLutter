@@ -4,10 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:personal_expenses/home.dart';
 void main(){
-  /*
-    NAME: BISWARUP BHATTACHARJEE
-    EMAIL: bbiswa471@gmail.com
-  */
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
   runApp(
     MaterialApp(
       home: SplashScreen(),
