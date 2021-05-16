@@ -59,7 +59,28 @@
 
 ## Folder Structure :point_down:
 ```bash
-
+PersonalExpences-UI-Flutter
+           ├── assets
+           |     ├── fonts
+           |     |     ├── AS.otf
+           |     |     ├── BLACKAREA.ttf
+           |     |     ├── Blazed.ttf
+           |     |     ├── CB.ttf
+           |     |     └── SummerFire.ttf
+           |     └── images
+           |           ├── sadface.png
+           |           └── spsc.png
+           └── lib
+                 ├── models
+                 |     └── transaction.dart
+                 ├── widgets
+                 |     ├── chart.dart
+                 |     ├── chart_bars.dart
+                 |     ├── new_transactions.dart
+                 |     ├── transaction_list.dart
+                 |     └── use_transactions.dart 
+                 ├── home.dart
+                 └── main.dart
 ```
      
 ## Making :point_down:
