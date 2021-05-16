@@ -3,7 +3,11 @@ class Chartbar extends StatelessWidget {
   final String label;
   final double spendingAmt;
   final double spendingPctOfTotal;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
   Chartbar(this.label, this.spendingAmt, this.spendingPctOfTotal);
 
   @override
