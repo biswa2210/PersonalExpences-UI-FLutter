@@ -23,6 +23,10 @@
 This is a Flutter Application for keeping personal expenses' record. The application is for both android and ios. The name of this app is Galaxy UI. This app is for watching records in charts not for keeping database. Here we can add expenses by adding title, amount, date. Here we can choose date from e virtual calendar. We can compare multiple records in a week in a form of a chart. We can use it for analysing and calculating one week's expenses. Watching the records in form of chart helps us understanding how much expences we had throughout the week. We can also delete records as per our need. We can balance our weekly cost with it. Many type of expenses we have like tuition, courses, ebill, movie tickets, rent, tiffin etc. We can add them in this app and calculate all amounts. It is a very useful and easy to use app for personal expences. This app' UI is very user friendly. Anyone can use it by just installing the application in mobile phone. This app is totally responsive users can use it in portrait or landscape mode as they want.
 </div>
 
+## PERSONAL EXPENSES GALAXI UI DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=UWcR9gbRCrQ&list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH&index=11">Click here to watch</a>
+
+## FLUTTER PLAYLIST: :point_right: <a href="https://www.youtube.com/playlist?list=PL0lbDlMJ1h4hiexZec5cbgw8a3F8dE1HH">Click here to watch</a>
+
 <details>
        <summary>"Details of Records"</summary>
  - Title<br>
